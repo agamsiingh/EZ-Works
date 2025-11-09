@@ -141,9 +141,9 @@ Summary: Contact form integration ✅, design & responsiveness verified ✅, pro
 
   Agam Singh  
 B.Tech – Computer Science & Engineering (2026 batch)
-📍 Agra / Meerut, Uttar Pradesh, India
-✉️ [agamcoder@gmail.com](mailto:agamcoder@gmail.com) | 📞 63988 33969
-🔗 LinkedIn: [linkedin.com/in/agamsingh](https://www.linkedin.com/in/agamsingh)
+📍 Agra , Uttar Pradesh, India
+✉️ [agamcoder@gmail.com](mailto:agamcoder@gmail.com) 
+🔗 LinkedIn: [linkedin.com/in/agamsingh](https://www.linkedin.com/in/agam-singh-b34310246/)
 
    
 
