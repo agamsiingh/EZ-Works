@@ -148,11 +148,3 @@ B.Tech – Computer Science & Engineering (2026 batch)
    
 
 Thank you for reviewing my submission. I look forward to the opportunity to contribute to EZ Works’ frontend team! 🚀
-
-```
-
-   
-
-If you like, I can also generate a   badge pack   (shields.io badges) and a small section for “Live Demo” and “Project Preview” with animated GIFs/screenshots to make your `README.md` more engaging. Would you like that?
-::contentReference[oaicite:1]{index=1}
-```
